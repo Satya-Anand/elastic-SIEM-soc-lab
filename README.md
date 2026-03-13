@@ -1,12 +1,26 @@
 # Elastic SIEM SOC Monitoring Lab
 
-![Dashboard](screenshots/dashboard-1.png)
+![Elastic](https://img.shields.io/badge/SIEM-Elastic%20Security-blue)
+![Windows](https://img.shields.io/badge/Endpoint-Windows-blue)
+![SOC](https://img.shields.io/badge/Domain-SOC%20Monitoring-green)
+![MITRE ATT&CK](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-red)
 
 Hands-on **Security Operations Center (SOC) monitoring lab** using Elastic Security SIEM to detect and investigate suspicious activity on Windows endpoints.
 
 ---
 
-## Overview
+## Key Skills Demonstrated
+
+- SIEM Monitoring
+- Windows Security Log Analysis
+- Detection Rule Creation
+- Security Alert Investigation
+- MITRE ATT&CK Threat Mapping
+- Incident Investigation Workflow
+
+---
+
+## Project Overview
 
 This project demonstrates how a SOC analyst monitors endpoint activity using a Security Information and Event Management (SIEM) platform.
 
@@ -17,8 +31,6 @@ Simulated attack activities included:
 - PowerShell execution
 - Encoded PowerShell commands
 - Unauthorized account creation
-
----
 
 ## Architecture
 
@@ -223,4 +235,5 @@ elastic-siem-soc-lab
 ## Author
 
 Satya Pragy Anand  
+
 Cybersecurity | SOC Analyst
